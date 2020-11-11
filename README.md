@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 ![GitHub gif](https://user-images.githubusercontent.com/64346030/98769755-a3b6c500-2406-11eb-87a7-8aaaeaf6e3e4.gif)
 
+## About me
 I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science & Engineering with a specialization in Cloud Computing. I am very passionate about Machine Learning, Neural Networks, and Data Science in addition to a leisurely and cursory interest in Business and Management. I am actively pursuing several courses on online resources and projects in order to develop my skills. I really enjoy learning languages and frameworks like Python and Node.js. I also enjoy ui, ux, and design in general.
 
-Skills: ML / Image Processing / Python / Neural Networks / Content Creation
+## Skills:
+ ML / Image Processing / Python / Neural Networks / Content Creation
 
 - 🔭 I’m currently working on making my own website.  
 - 🌱 I’m currently learning HTML/CSS. 
