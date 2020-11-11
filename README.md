@@ -5,9 +5,9 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
 
 Skills: ML / Image Processing / Python / Neural Networks / Content Creation
 
-- 🔭 I’m currently working on Making my website  
-- 🌱 I’m currently learning HTML/CSS 
-- 👯 I’m looking to collaborate on Projects 
+- 🔭 I’m currently working on making my own website.  
+- 🌱 I’m currently learning HTML/CSS. 
+- 👯 I’m looking to collaborate on Projects and ideas. 
 - ⚡ Fun fact: I'm a music lover who also reads a lot of books :) 
 
 
