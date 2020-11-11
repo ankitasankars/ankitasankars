@@ -1,6 +1,7 @@
 ### Hi there 👋, Ankita Kokkera
 #### Data Science enthusiast 
-![Data Science enthusiast ](![gif](https://user-images.githubusercontent.com/64346030/98766854-4bcb8e80-2405-11eb-8871-481696e84977.gif))
+
+
 
 I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science & Engineering with a specialization in Cloud Computing. I am very passionate about Machine Learning, Neural Networks, and Data Science in addition to a leisurely and cursory interest in Business and Management. I am actively pursuing several courses on online resources and projects in order to develop my skills. I really enjoy learning languages and frameworks like Python and Node.js. I also enjoy ui, ux, and design in general.
 
