@@ -23,9 +23,6 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
 ## Profile Stats
 
 <a href="https://github.com/ankitasankars/ankitasankars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasankars&hide=java,html&title_color=ff6e96&text_color=f8f8f2&icon_color=79dafa&bg_color=282a36" />
-</a>
-<a href="https://github.com/ankitasankars/ankitasankars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitasankars&show_icons=true&line_height=27&count_private=true&title_color=ff6e96&text_color=f8f8f2&icon_color=79dafa&bg_color=282a36" alt="Martin's GitHub Stats" />
 </a>
 
