@@ -1,4 +1,4 @@
-### Hi there 👋, Ankita Kokkera
+### Hi there 👋, I'm Ankita Kokkera
 #### Data Science enthusiast 
 
 ![GitHub gif](https://user-images.githubusercontent.com/64346030/98769755-a3b6c500-2406-11eb-87a7-8aaaeaf6e3e4.gif)
