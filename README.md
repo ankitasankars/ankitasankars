@@ -9,7 +9,7 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
  ML / Image Processing / Python / Neural Networks / Content Creation
  
  ## Blog Posts
- I write blogs, you will find them on medium!
+ I write blogs, you will find them on [Medium](https://medium.com/@ankitasankars)
 
 ## Progress
 
