@@ -7,6 +7,9 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
 ## Skills
 
  ML / Image Processing / Python / Neural Networks / Content Creation
+ 
+ ## Blog Posts
+ I write blogs, you will find them on medium!
 
 ## Progress
 
@@ -19,7 +22,12 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankitasankars)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ankita-k-4b943611a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ankitakokkera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/AnkitaKokkera/videos)  
 ## Profile Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitasankars&show_icons=true&count_private=true)  
+<a href="https://github.com/ankitasankars/ankitasankars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasankars&hide=java,html&title_color=ff6e96&text_color=f8f8f2&icon_color=79dafa&bg_color=282a36" />
+</a>
+<a href="https://github.com/ankitasankars/ankitasankars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitasankars&show_icons=true&line_height=27&count_private=true&title_color=ff6e96&text_color=f8f8f2&icon_color=79dafa&bg_color=282a36" alt="Martin's GitHub Stats" />
+</a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitasankars)  
 
