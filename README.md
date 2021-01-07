@@ -28,3 +28,5 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitasankars)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasankars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
