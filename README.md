@@ -13,7 +13,7 @@ I'm Ankita and I'm a sophomore pursuing a Bachelor's Degree in Computer Science 
 
 ## Progress
 
-- 🔭 I’m currently working on making my own website.  
+- 🔭 I’m currently working on making a website.  
 - 🌱 I’m currently learning HTML/CSS. 
 - 👯 I’m looking to collaborate on ML or Data Science Projects. 
 - ⚡ Fun fact: I'm a music lover who also reads a lot of books :) 
