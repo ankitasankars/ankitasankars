@@ -10,7 +10,7 @@ I'm Ankita and I'm a sophomore pursuing a B.Tech. in Computer Science & Engineer
  
  ## Portfolio
  
- Check out my Portfolio - Website [here](https://ankitasankars.github.io/Portfolio/)!
+ Check out my Portfolio - Website [here](https://ankitakokkera.netlify.app/)!
  
  ## Blog Posts
  You can check out my blogs on [Medium](https://medium.com/@ankitasankars) :)
