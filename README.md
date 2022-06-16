@@ -1,5 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-![GitHub gif](https://user-images.githubusercontent.com/64346030/126598245-4258e8de-6f38-4526-a420-79ca78f99af7.gif)
+# Hi there! </h2>
+
 
 ## About me
 I'm Ankita and I'm a junior pursuing B.Tech in Computer Science & Engineering with a specialization in Cloud Computing. I am very passionate about Machine Learning, Neural Networks, and Data Science in addition to a leisurely and cursory interest in Business and Management. I am actively pursuing several courses on online resources and projects in order to develop my skills. I really enjoy learning languages and frameworks like Python and TensorFlow. I also dabble in web devlopment from time to time.
