@@ -27,9 +27,5 @@ You can check out my blogs on [Medium](https://medium.com/@ankitasankars) :)
 
 ## Profile Stats
 
-<a href="https://github.com/ankitasankars/ankitasankars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitasankars&show_icons=true&line_height=27&count_private=true&title_color=ff6e96&text_color=f8f8f2&icon_color=79dafa&bg_color=282a36" alt="Martin's GitHub Stats" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasankars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
