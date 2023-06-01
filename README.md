@@ -2,7 +2,7 @@
 
 
 ## About me
-A results-driven Computer Science student with a strong passion for AI/ML, Neural Networks, and Data Science, as well as a keen interest in Business and Management. Actively seeking opportunities to bridge the gap between technology and business, recognizing the critical importance of a comprehensive understanding of both domains for driving innovation and achieving success in today's competitive landscape.
+A results-driven Computer Science graduate with a strong passion for AI/ML, Neural Networks, and Data Science, as well as a keen interest in Business and Management. Actively seeking opportunities to bridge the gap between technology and business, recognizing the critical importance of a comprehensive understanding of both domains for driving innovation and achieving success in today's competitive landscape.
 
 Committed to continuously honing, developing, and expanding capabilities in these areas through practical experience, coupled with a proactive approach to staying updated with the latest industry trends and technologies. I am eager to apply my knowledge and expertise to real-world scenarios and making a meaningful impact at the intersection of technology and business.
 
