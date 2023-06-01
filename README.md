@@ -2,7 +2,12 @@
 
 
 ## About me
-I'm Ankita and I'm a final year student pursuing B.Tech in Computer Science & Engineering with a specialization in Cloud Computing. I am very passionate about Machine Learning, Neural Networks, and Data Science in addition to a leisurely and cursory interest in Business and Management. I am actively pursuing several courses on online resources and projects in order to develop my skills. I really enjoy learning languages and frameworks like Python and TensorFlow. I also dabble in web devlopment from time to time.
+A results-driven Computer Science student with a strong passion for AI/ML, Neural Networks, and Data Science, as well as a keen interest in Business and Management. Actively seeking opportunities to bridge the gap between technology and business, recognizing the critical importance of a comprehensive understanding of both domains for driving innovation and achieving success in today's competitive landscape.
+
+Committed to continuously honing, developing, and expanding capabilities in these areas through practical experience, coupled with a proactive approach to staying updated with the latest industry trends and technologies. I am eager to apply my knowledge and expertise to real-world scenarios and making a meaningful impact at the intersection of technology and business.
+
+I welcome the opportunity to discuss how I can contribute to your organization's objectives. Please feel free to reach out to me anytime!
+
 #### <p align="center"> Check out my Portfolio - Website [here](https://ankitakokkera.netlify.app/)! </p>
 
 ## Languages and Frameworks
