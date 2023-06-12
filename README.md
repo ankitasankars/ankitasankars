@@ -8,7 +8,7 @@ Committed to continuously honing, developing, and expanding capabilities in thes
 
 I welcome the opportunity to discuss how I can contribute to your organization's objectives. Please feel free to reach out to me anytime!
 
-#### <p align="center"> Check out my Portfolio - Website [here](https://ankitakokkera.netlify.app/)! </p>
+#### <p align="center"> Check out my Portfolio - Website [here](https://ankitasankars.wixsite.com/my-portfolio)! </p>
 
 ## Languages and Frameworks
 
