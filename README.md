@@ -2,11 +2,21 @@
 
 
 ## About me
-A results-driven Computer Science graduate with a strong passion for AI/ML, Neural Networks, and Data Science, as well as a keen interest in Business and Management. Actively seeking opportunities to bridge the gap between technology and business, recognizing the critical importance of a comprehensive understanding of both domains for driving innovation and achieving success in today's competitive landscape.
+I’m a Business Analytics MSc student at Imperial College London and a former Software Engineer at Barclays, passionate about building solutions where data, AI, and strategy converge.
 
-Committed to continuously honing, developing, and expanding capabilities in these areas through practical experience, coupled with a proactive approach to staying updated with the latest industry trends and technologies. I am eager to apply my knowledge and expertise to real-world scenarios and making a meaningful impact at the intersection of technology and business.
+### 💡 My focus areas include:
 
-I welcome the opportunity to discuss how I can contribute to your organization's objectives. Please feel free to reach out to me anytime!
+**AI/ML & Neural Networks** – turning data into predictive, actionable insights
+
+**Data Science & Visualization** – uncovering patterns and driving smarter decisions
+
+**Business & Finance Applications** – bridging technology with real-world impact
+
+🔧 **Tech Stack**: Python | SQL | Java | PyTorch | TensorFlow | Scikit-Learn | Tableau | Docker | Jenkins
+
+I’m committed to continuous learning and applying advanced analytics to solve finance, risk, and business challenges. Here on GitHub, you’ll find my projects ranging from machine learning models to data-driven dashboards and automation tools.
+
+Let’s connect and collaborate on projects that create real impact!
 
 #### <p align="center"> Check out my Portfolio - Website [here](https://ankitasankars.wixsite.com/my-portfolio)! </p>
 
