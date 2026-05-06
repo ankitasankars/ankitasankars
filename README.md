@@ -69,16 +69,6 @@ Currently deepening expertise in **Generative AI (GANs & LLMs)** and their appli
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ankitasankars&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff)
-
-</div>
-
----
-
 <div align="center">
 
 *Let's connect and build something impactful together!*
