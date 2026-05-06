@@ -12,13 +12,11 @@
 
 </div>
 
----
-
 ## About Me
 
-I'm passionate about building solutions where **data, AI, and business strategy converge**. With a background in software engineering at Barclays and now an MSc in Business Analytics at Imperial, I bridge the gap between technical depth and real-world impact.
+Software engineer turned analyst. I spent two years at Barclays building production systems, and now I'm at Imperial studying Business Analytics because I wanted to understand the decisions those systems were informing.
 
-Currently deepening expertise in **Generative AI (GANs & LLMs)** and their applications in finance and consulting. Always open to collaborating on projects that create measurable, meaningful impact.
+Currently focused on **Generative AI (GANs & LLMs)** in finance and consulting contexts, and building NLP tools that go beyond demos into actual use.
 
 > 🎵 Music enthusiast · 📚 Avid reader · 📺 Binge-worthy TV fan
 
@@ -28,7 +26,7 @@ Currently deepening expertise in **Generative AI (GANs & LLMs)** and their appli
 
 | 🧠 AI/ML & Neural Networks | 📊 Data Science & Visualization | 💼 Business & Finance |
 |:---:|:---:|:---:|
-| Turning data into predictive, actionable insights | Uncovering patterns to drive smarter decisions | Bridging advanced technology with real-world impact |
+| GANs, LLMs, and applied deep learning | Turning messy data into clear decisions | Translating technical work into business context |
 
 ---
 
@@ -61,16 +59,16 @@ Currently deepening expertise in **Generative AI (GANs & LLMs)** and their appli
 
 ## 🚀 Currently
 
-- 🔭 **Building** — NLP projects with a focus on real-world business applications
-- 🌱 **Learning** — Generative AI (GANs & LLMs) and their applications in finance & consulting
-- 👯 **Open to** — Collaborating on projects that bridge data, AI, and business impact
-- ✍️ **Writing** — AI & analytics insights on [Medium](https://medium.com/@ankitasankars)
-- 📫 **Reach me** — [ankitasankars@gmail.com](mailto:ankitasankars@gmail.com)
+- 🔭 **Building** NLP projects with real-world business applications
+- 🌱 **Learning** Generative AI (GANs & LLMs) in finance and consulting
+- 👯 **Open to** collaborations at the intersection of data, AI, and business
+- ✍️ **Writing** AI & analytics on [Medium](https://medium.com/@ankitasankars)
+- 📫 **Reach me** at [ankitasankars@gmail.com](mailto:ankitasankars@gmail.com)
 
 ---
 
 <div align="center">
 
-*Let's connect and build something impactful together!*
+*Let's connect and build something together!*
 
 </div>
