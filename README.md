@@ -1,10 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-// hello, world
-```
-
 # Ankita Kokkera
 
 **Business Analytics MSc @ Imperial College London · Ex-Software Engineer @ Barclays**
